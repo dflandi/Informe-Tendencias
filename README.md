@@ -26,3 +26,8 @@ PASO 4:
 Para ver los contenedores que estan corriendo usar el comando: docker ps
 
 ![image](https://user-images.githubusercontent.com/91167254/197311293-8634f532-95de-4dc7-bd6b-1fe61d767372.png)
+
+
+EJECUCIÒN DE CONTENEDORES WEBSERVER
+
+Primero 
